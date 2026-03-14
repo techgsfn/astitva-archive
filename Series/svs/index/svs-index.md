@@ -1,5 +1,6 @@
 # SVS Index  
 Svādhyāya Saṁhitā
+SVS-0001
 
 This index organizes SVS notes thematically.
 
