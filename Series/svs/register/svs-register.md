@@ -7,7 +7,7 @@ This register lists all SVS notes.
 
 | ID | Title | Date | Status |
 |----|------|------|------|
-| SVS-0001 | — | — | draft |
+| SVS-0001 | On the Discipline of Svādhyāya | 2026 | draft |
 
 ---
 
