@@ -1,1 +1,5 @@
-
+{
+  "scripts": {
+    "build": "node scripts/generate.js && node scripts/registry.js && node scripts/sitemap.js"
+  }
+}
