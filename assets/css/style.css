@@ -1,1 +1,28 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.75;
+  max-width: 760px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  color: #111;
+}
 
+h1 { font-size: 2rem; }
+h2 { border-bottom: 1px solid #ddd; padding-bottom: 4px; }
+
+dl {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 6px 12px;
+}
+
+a { color: #1a4b8c; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+footer {
+  margin-top: 3rem;
+  border-top: 1px solid #ddd;
+  padding-top: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+}
